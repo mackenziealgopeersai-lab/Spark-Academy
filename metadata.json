@@ -1,0 +1,7 @@
+{
+  "name": "Spark Academy",
+  "description": "An interactive AI-powered learning companion for students aged 11-14, featuring personalized tutoring, real-time Q&A, and adaptive quizzes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
